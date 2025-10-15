@@ -17,8 +17,8 @@ As in [6,7], we train each BERT-based method for 10 epochs using a 5-fold cross-
 2:  topically relevant and educational or topically relevant and readable for a 5th grader or below
 3:  topically relevant, readable for a 5th grader or below, and educational 
        
-Question: {question}
-Passage: {passage}
+Question: {question}  
+Passage: {passage}  
 Output:"
 
 ## References:
