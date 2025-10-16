@@ -6,13 +6,13 @@ Query performance prediction (QPP) methods have primarily been tailored to mains
 
 ### Resources
 The following resources must be downloaded to reproduce our results.
-1. Datasets:
+1. Datasets:  
    a. [kid-friend-en](https://zenodo.org/records/14684724/files/kid-friend-en.zip?download=1) **Note: The dataset exists in multiple languages, for English, download kid-friend-en.zip**  
    b. requik can be requested from the original authors [9,10]  
    c. [CLEAR corpus](https://www.commonlit.org/blog/introducing-the-clear-corpus-an-open-dataset-to-advance-research-28ff8cfea84a/)  
    d. [SQuAD dataset](https://huggingface.co/datasets/rajpurkar/squad)  
 
-2. Codebases:
+2. Codebases:  
    a. [spache-allen](https://github.com/BSU-CAST/ecir22-readability)  
    b. [QPP-GenRE](https://github.com/ChuanMeng/QPP-GenRE)  
    c. [Other QPP methods](https://github.com/ChuanMeng/QPP4CS)  
